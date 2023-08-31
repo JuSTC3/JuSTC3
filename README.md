@@ -9,7 +9,7 @@
 
 <img align="right" alt="profile" width="400" src="https://raw.githubusercontent.com/JuSTC3/JuSTC3/d7f54b92a911eaf88e9c23badfa62da71f242c88/profile.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justc3&label=Profile%20views&color=0e75b6&style=flat" alt="justc3" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=justc3&label=Profile%20views&color=0e75b6&style=flat" alt="justc3" /> </p>
 
 ```js
 //Start
