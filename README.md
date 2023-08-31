@@ -75,23 +75,16 @@ dev.sleep(true);
 <hr/>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuSTC3&theme=transparent&card_width=500)](https://git.io/streak-stats)
+    <img width=390 src="https://streak-stats.demolab.com/?user=JuSTC3&count_private=true&theme=transparent&border_radius=5&card_width=500" alt="streak stats"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuSTC3)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justc3&show_icons=true&locale=en&layout=compact" alt="justc3" />
-</p>
 
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justc3&show_icons=true&locale=en" alt="justc3" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justc3&" alt="justc3" />
-</p>
 
 <hr/>
 
