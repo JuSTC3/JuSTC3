@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ebisan;Also+Known+As+JuSTC3" alt="Typing SVG" />
     </a>
 </h1>
-<h3 align="center">DevOps Engineer, Backend Developer | Fueled by a Cybersecurity Craze | Eager to Learn and Innovate. </h3>
+<h3 align="center">DevOps Engineer, Backend Developer | Fueled by a Cybersecurity Craze</h3>
 
 <img align="right" alt="profile" width="400" src="https://raw.githubusercontent.com/JuSTC3/JuSTC3/d7f54b92a911eaf88e9c23badfa62da71f242c88/profile.gif">
 
