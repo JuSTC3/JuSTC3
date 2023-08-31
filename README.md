@@ -24,7 +24,6 @@ while(dev.isCoding())
 //End
 ```
 
-<br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justc3&label=Profile%20views&color=0e75b6&style=flat" alt="justc3" /> </p>
 
 - 🔭 I’m currently working on [Loco Alerts](https://github.com/JuSTC3/LOCOV2)
