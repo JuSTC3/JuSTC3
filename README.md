@@ -100,6 +100,11 @@ dev.sleep(true);
 
 </h4>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuSTC3&theme=transparent&card_width=500&count_private=true)](https://git.io/streak-stats)
