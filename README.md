@@ -19,6 +19,7 @@ while(dev.isCoding())
 {
   dev.listenToMusic();
   dev.openStackOverFlow();
+  dev.openChatGPT();
   dev.drinkWater();
 }
 //End
