@@ -74,6 +74,8 @@ dev.sleep(true);
 
 <hr/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuSTC3&theme=transparent&card_width=500)](https://git.io/streak-stats)
+
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justc3&show_icons=true&locale=en&layout=compact" alt="justc3" />
 </p>
