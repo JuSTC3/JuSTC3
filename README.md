@@ -42,21 +42,24 @@ dev.sleep(true);
 
 - 📄 Don't worry, my website won't bite... [ebsn.in](ebsn.in)
 
-- ⚡ Fun fact **A Day on Venus Is Longer Than A Year On Venus.**
+- ⚡ Fun fact: **A Day on Venus Is Longer Than A Year On Venus.**
 
 <hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/ebisan" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebisan" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/_ebsn_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ebsn_" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/justc3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="justc3" height="30" width="40" />
-    </a>
+<h2 align="center">🌎 Connect With Me 🌎</h2>
+<p align="center">
+    <a href="mailto:thejustc3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ebisan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_ebsn_/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/743045390026276868" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 <hr/>
