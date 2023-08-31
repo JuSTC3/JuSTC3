@@ -43,8 +43,8 @@
 <h2 align="center">⚒️ Languages And Tools ⚒️</h2>
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,androidstudio,bootstrap,c,cpp,css,dart,django,dynamodb,java,express,flutter,html,js,kotlin,jquery,laravel,lua,mongodb,mysql,php,py,react" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,bash,cloudflare,jenkins,nginx,discord,nginx,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,lua,c,cpp,php,androidstudio,flutter,dart,kotlin,javascript,express,react,django,laravel,bootstrap,css,html,jquery,mongodb,dynamodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,jenkins,bash,cloudflare,nginx,discord,vscode,postman" />
 </p>
 <br/>
 
