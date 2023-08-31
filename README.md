@@ -11,6 +11,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justc3&label=Profile%20views&color=0e75b6&style=flat" alt="justc3" /> </p>
 
+```js
+const name = 'EBSN' || 'JuSTC3';
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+//End
+```
+
 - 🔭 I’m currently working on [Loco Alerts](https://github.com/JuSTC3/LOCOV2)
 
 - 🌱 I’m currently learning **Flutter**
