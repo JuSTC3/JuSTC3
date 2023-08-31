@@ -88,6 +88,8 @@ dev.sleep(true);
 
 <hr/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Drop+me+a+line+on+LinkedIn" alt="Typing SVG" />
-</a>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Drop+me+a+line+on+LinkedIn" alt="Typing SVG" />
+    </a>
+</p>
