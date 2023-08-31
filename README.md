@@ -39,13 +39,16 @@
 </p>
 
 <hr/>
- 
+
 <h2 align="center">⚒️ Languages And Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
+<br/>
+
+<hr/>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justc3&show_icons=true&locale=en&layout=compact" alt="justc3" />
