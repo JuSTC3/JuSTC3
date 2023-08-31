@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">DevOps Engineer, Backend Developer | Fueled by a Cybersecurity Craze</h3>
 
-<img align="right" alt="profile" width="385" src="https://raw.githubusercontent.com/JuSTC3/JuSTC3/d7f54b92a911eaf88e9c23badfa62da71f242c88/profile.gif">
+<img align="right" alt="profile" width="425" src="https://raw.githubusercontent.com/JuSTC3/JuSTC3/d7f54b92a911eaf88e9c23badfa62da71f242c88/profile.gif">
 
 ```js
 //Start
@@ -25,6 +25,8 @@ while(dev.isCoding())
 dev.sleep(true);
 //End
 ```
+
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justc3&label=Profile%20views&color=0e75b6&style=flat" alt="justc3" /> </p>
 
