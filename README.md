@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://ebsn00.com)
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://ebsn00.com">
         <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ebisan;Also+Known+As+JuSTC3" alt="Typing SVG" />
     </a>
 </h1>
