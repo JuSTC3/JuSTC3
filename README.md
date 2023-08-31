@@ -34,15 +34,17 @@ dev.sleep(true);
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [ebsn00.com](ebsn00.com)
+<!-- - 👨‍💻 All of my projects are available at [ebsn00.com](ebsn00.com)*/-->
 
 - 💬 Ask me about **DevOps,Backend & Cyber Security**
 
 - 📫 How to reach me **ebisanbabu@gmail.com**
 
-- 📄 Know about my experiences [ebsn.in](ebsn.in)
+- 📄 Don't worry, my website won't bite... [ebsn.in](ebsn.in)
 
 - ⚡ Fun fact **A Day on Venus Is Longer Than A Year On Venus.**
+
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
