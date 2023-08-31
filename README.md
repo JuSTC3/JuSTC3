@@ -84,11 +84,6 @@ dev.sleep(true);
 
 </div>
 
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justc3&show_icons=true&locale=en" alt="justc3" />
-</p>
-
-
 <hr/>
 
 <p align="center">
