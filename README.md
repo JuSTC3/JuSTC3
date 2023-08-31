@@ -1,6 +1,8 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ebsn00.com)
 
-<h1 align="center">Hi 👋, I'm Ebisan (JuSTC3)</h1>
+<h1 align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ebisan;Also+Known+As+JuSTC3)](https://git.io/typing-svg)
+</h1>
 <h3 align="center">Backend Developer</h3>
 
 <img align="right" alt="profile" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -128,8 +130,14 @@
         </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justc3&show_icons=true&locale=en&layout=compact" alt="justc3" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justc3&show_icons=true&locale=en&layout=compact" alt="justc3" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justc3&show_icons=true&locale=en" alt="justc3" /></p>
+<p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justc3&show_icons=true&locale=en" alt="justc3" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justc3&" alt="justc3" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justc3&" alt="justc3" />
+</p>
