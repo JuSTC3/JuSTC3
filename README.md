@@ -75,7 +75,8 @@ dev.sleep(true);
 <hr/>
 
 <div align="center">
-    <img width=390 src="https://streak-stats.demolab.com/?user=JuSTC3&count_private=true&theme=transparent&border_radius=5&card_width=200" alt="streak stats"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuSTC3&theme=transparent&card_width=500&count_private=true)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuSTC3)](https://github.com/anuraghazra/github-readme-stats)
 
