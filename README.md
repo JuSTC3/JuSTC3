@@ -52,13 +52,13 @@ dev.sleep(true);
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ebisan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_ebsn_/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/743045390026276868" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -85,3 +85,11 @@ dev.sleep(true);
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justc3&" alt="justc3" />
 </p>
+
+<hr/>
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Drop+me+a+line+on+LinkedIn" alt="Typing SVG" />
+    </a>
+</h1>
