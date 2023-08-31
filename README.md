@@ -80,6 +80,8 @@ dev.sleep(true);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuSTC3&theme=transparent&card_width=500&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![JuSTC3's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuSTC3&theme=transparent&show_icons=true)
+
 </div>
 
 <p>
