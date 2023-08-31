@@ -22,6 +22,7 @@ while(dev.isCoding())
   dev.openChatGPT();
   dev.drinkWater();
 }
+dev.sleep(true);
 //End
 ```
 
