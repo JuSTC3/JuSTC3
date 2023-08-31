@@ -1,7 +1,9 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ebsn00.com)
 
 <h1 align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ebisan;Also+Known+As+JuSTC3)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ebisan;Also+Known+As+JuSTC3" alt="Typing SVG" />
+    </a>
 </h1>
 <h3 align="center">Backend Developer</h3>
 
