@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">DevOps Engineer | Backend Developer | Fueled by a Cybersecurity Craze</h3>
 
-<img align="right" alt="profile" width="385" src="https://cdn.discordapp.com/attachments/858390754858500106/1146825466259460106/profile2.gif">
+<img align="right" alt="profile" width="385" src="https://raw.githubusercontent.com/JuSTC3/JuSTC3/master/profile.gif">
 
 ```js
 //Start
